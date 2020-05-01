@@ -1,4 +1,4 @@
-package timeit
+package utils
 
 // The timeit package provides a function `Timeit` for timing grequests`s HTTP resquest
 import (
