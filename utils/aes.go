@@ -1,4 +1,4 @@
-package utils
+package knife
 
 // Only ECB/CBC aes encryption/decryption supported
 import (
